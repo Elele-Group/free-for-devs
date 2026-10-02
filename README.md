@@ -169,6 +169,7 @@ This is a full list of services, software and tools that are available for devel
 
 
 ## Management Systems
+-   [Easypanel](https://easypanel.io/) - Proprietary self-hosted application and database deployment with Docker images and Docker Compose. Permanent free plan: 3 projects, unlimited services and deployments, and basic monitoring. Server hosting costs are separate.
 -   [Bitnami](https://bitnami.com/)  - Deploy prepared apps on IaaS. Management of 1 AWS micro instance free
 -   [Jamf](https://www.jamf.com/)  - Device management for iPads, iPhones and Macs, 3 devices free
 -   [Moss](https://moss.sh/)  - Help developers deploy and manage their web apps and servers. Free up to 25 git deployments per month
